@@ -10,6 +10,6 @@ To interact with the data visualizations created, please view the [link to the s
 ](https://github.com/tommy-chin/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
 ![Trips by Gender (Weekday per Hour).png](https://github.com/tommy-chin/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 ![User Trips by Gender by Weekday.png](https://github.com/tommy-chin/bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
-
+g
 
 ## Summary
