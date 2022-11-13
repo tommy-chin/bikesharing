@@ -3,6 +3,7 @@
 ## Results
 To interact with the data visualizations created, please view the [link to the Tableau story](https://public.tableau.com/app/profile/thomas.chin4347/viz/Module14Challenge_16683760808430/BikesharingStory?publish=yes "link to dashboard")
 ![Checkout Times For Users.png](https://github.com/tommy-chin/bikesharing/blob/main/images/Checkout%20Times%20For%20Users.png)
+This visualization
 ![Gender Breakdown.png](https://github.com/tommy-chin/bikesharing/blob/main/images/Gender%20Breakdown.png)
 ![Checkout Times by Gender.png](https://github.com/tommy-chin/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.png)
 ![August Peak Hours.png](https://github.com/tommy-chin/bikesharing/blob/main/images/August%20Peak%20Hours.png)
