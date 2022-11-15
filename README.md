@@ -1,6 +1,6 @@
 # Bikesharing
 ## Purpose
-## Results
+There is an interest to create a bike sharing business in Des Moines. However, before starting the business proposal, data would need to be presented to potential investors to show that there is profitability and sustainability with the business. With the data provided from a successful bike sharing program in New York by the name of CitiBike, multiple data visualizations could be created to illustrate how the same business could be implemented in Des Moines. With the use of Tableau, interactive data visualizations were created that show a wide range of biking rental statistics. 
 To interact with the data visualizations created, please view the [link to the Tableau story](https://public.tableau.com/app/profile/thomas.chin4347/viz/Module14Challenge_16683760808430/BikesharingStory?publish=yes "link to dashboard")
 ![Checkout Times For Users.png](https://github.com/tommy-chin/bikesharing/blob/main/images/Checkout%20Times%20For%20Users.png)
 The visualization above illustrates the number of bike users that checkout within a two hour time frame of checking in. As seen in the image, a majority of bike users check out within an hour of checking in. 
@@ -15,6 +15,6 @@ The visualization above illustrates a heat map of the number of bikers that star
 ![Trips by Gender (Weekday per Hour).png](https://github.com/tommy-chin/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 The visualization above illustrates a heat map of the number of bikers that start biking at certain times of the day and the days of the week. A gender filter is applied to this heat map. Despite there being a lower amount of bikers for the female and unknown genders, the heat maps seem to follow the same trend as the male gender heat map. 
 ![User Trips by Gender by Weekday.png](https://github.com/tommy-chin/bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
-The visualization above illustrates a heat map of the number of bikers that decide to bike during different days of the week. A gender filter and a usertype filter is applied. The two possible usertypes are normal customers and subscribers to the bikesharing business. A majority of the bikers in this data set are subscribers to the bikesharing business.  
+The visualization above illustrates a heat map of the number of bikers that decide to bike during different days of the week. A gender filter and a usertype filter is applied. The two possible usertypes are normal customers and subscribers to CitiBike. A majority of the bikers in this data set are subscribers to CitiBike.  
 
 ## Summary
